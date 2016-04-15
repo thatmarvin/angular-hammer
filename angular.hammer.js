@@ -608,4 +608,4 @@
       }
     }
   }
-})(window, window.angular, window.Hammer);
+})(window, angular, Hammer);
